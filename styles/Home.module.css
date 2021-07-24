@@ -1,0 +1,22 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+}
+
+.middle{
+  padding: 2rem;
+}
+
+.centralizeText{
+  text-align: center;
+}
+
+.lighter{
+  font-weight: lighter;
+}
+
